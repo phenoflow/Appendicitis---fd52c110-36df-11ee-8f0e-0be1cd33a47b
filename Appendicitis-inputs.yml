@@ -1,0 +1,66 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/appendicitis---primary.py
+inputModule3:
+  class: File
+  path: python/appendicitis-appendix---primary.py
+inputModule4:
+  class: File
+  path: python/appendicitis-excision---primary.py
+inputModule5:
+  class: File
+  path: python/appendicitis-appendicectomy---primary.py
+inputModule6:
+  class: File
+  path: python/abnormal-appendicitis---primary.py
+inputModule7:
+  class: File
+  path: python/endoscopic-appendicitis---primary.py
+inputModule8:
+  class: File
+  path: python/appendicitis-specified---primary.py
+inputModule9:
+  class: File
+  path: python/other-appendicitis---primary.py
+inputModule10:
+  class: File
+  path: python/appendicitis-drainage---primary.py
+inputModule11:
+  class: File
+  path: python/acute-appendicitis---primary.py
+inputModule12:
+  class: File
+  path: python/appendicitis-peritonitis---primary.py
+inputModule13:
+  class: File
+  path: python/appendicitis-abscess---primary.py
+inputModule14:
+  class: File
+  path: python/appendicitis-procedure---primary.py
+inputModule15:
+  class: File
+  path: python/appendicitis---secondary.py
+inputModule16:
+  class: File
+  path: python/appendicitis-emergency---secondary.py
+inputModule17:
+  class: File
+  path: python/abnormal-appendicitis---secondary.py
+inputModule18:
+  class: File
+  path: python/appendicitis-unspecified---secondary.py
+inputModule19:
+  class: File
+  path: python/other-appendicitis---secondary.py
+inputModule20:
+  class: File
+  path: python/appendicitis-appendicectomy---secondary.py
+inputModule21:
+  class: File
+  path: python/appendicitis-drainage---secondary.py
+inputModule22:
+  class: File
+  path: python/output-cases.py
